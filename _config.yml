@@ -4,7 +4,7 @@ subtitle: information + objects
 email: jftesser@gmail.com
 description: I am a developer, designer and technologist exploring how the digital can improve our everyday environment.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: jennafizel.com # the base hostname & protocol for your site
 author: Jenna Fizel
 
 # homepage tiles
