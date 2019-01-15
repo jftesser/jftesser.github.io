@@ -1,7 +1,7 @@
 ---
 title: Environment
 layout: landing
-description: 'Making the invisible invisible.<br>Enhacing space and information through interface.'
+description: 'Making the invisible visible.<br>Enhacing space and information through interface.'
 image: assets/images/environment.png
 nav-menu: true
 ---
