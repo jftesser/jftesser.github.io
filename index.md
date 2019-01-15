@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Formerly a junior partner at an <a target="_blank" href="http://smalldesignfirm.com/">interactive design agency</a>, I also co-founded a <a target="_blank" href="http://www.continuumfashion.com">fashion and technology startup</a>. I am currently the CTO of <a target="_blank" href="https://evelynbobbie.com">Evelyn & Bobbie</a>, a technology-focused intimate apparel company. In my spare time I use my knowledge of code and machines to make robots build my furniture.
