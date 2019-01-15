@@ -1,7 +1,7 @@
 ---
 title: Craft
 layout: landing
-description: 'Making it myself, for myself and friends.'
+description: 'Making it for myself.'
 image: assets/images/craft.png
 nav-menu: true
 ---

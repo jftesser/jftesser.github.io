@@ -12,9 +12,14 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="http://smalldesignfirm.com/project/welcome-center/" class="image">
-			<img src="assets/images/projects_0003_BPL.jpg" alt="" data-position="center center" />
-		</a>
+		<div>
+			<div class="row 50% uniform">
+				<div class="12u$"><span class="image fit"><div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/218959133?autoplay=1&loop=1&color=c9ff23" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script></span></div>
+				<!-- Break -->
+				<a href="http://smalldesignfirm.com/project/welcome-center/" class="6u image"><span class="image fit"><img src="assets/images/projects_0003_BPL.jpg" alt="" /></span></a>
+				<a href="http://smalldesignfirm.com/project/welcome-center/" class="6u$ image"><span class="image fit"><img src="assets/images/shelf.jpg" alt="" /></span></a>
+			</div>
+		</div>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -38,7 +43,7 @@ nav-menu: true
 				<header class="major">
 					<h3>New-York Historical Society</h3>
 				</header>
-				<p>In 2011 I helped develop an early "AR" system that recreated a wall covered in over 100 art objects. In 2017 I worked on a monumental touch screen wall that connects the lives and work of important women in New York's history. I developed a graphing system, typography animations and a suite of shaders for that application. Also in 2017, I designed and built a 3D printed armature that precisely holds nearly 1,000 individually controllable LEDs inside a Tiffany-style lampshade. Using the shade and a series of sensors visitors can simulate the process of choosing and composing lamp designs. All input and interaction for this project is done directly through manipulating physical objects, creating a sense of magic and direct control.</p>
+				<p>In 2011 I helped develop an early AR system that recreated a wall covered in over 100 art objects. In 2017 I worked on a monumental touch screen wall that connects the lives and work of important women in New York's history. I developed a graphing system, typography animations and a suite of shaders for that application. Also in 2017, I designed and built a 3D printed armature that precisely holds nearly 1,000 individually controllable LEDs inside a Tiffany-style lampshade. Using the shade and a series of sensors visitors can simulate the process of choosing and composing lamp designs. All input and interaction for this project is done directly through manipulating physical objects, creating a sense of magic and direct control.</p>
 				<ul class="actions">
 					<li><a href="http://smalldesignfirm.com/project/design-a-lamp/" class="button">Design-a-Lamp</a></li>
 					<li><a href="http://smalldesignfirm.com/project/womens-voices/" class="button">Women's Voices</a></li>
@@ -56,7 +61,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Biogen</h3>
 				</header>
-				<p>I led the spatial redesign and interactive development for Biogen's world headquarters lobby. Each interactive is relatively straightforward in form an purpose: an RFID object table, a wall of talking heads, furniture with embedded displays, etc. Together they form a coherent and coordinated spatial experience. Graphics on screen spill on to adjacent walls and furniture and monumental graphics are continued across multiple installations.</p>
+				<p>I led the spatial redesign and interactive development for Biogen's world headquarters lobby. Each interactive is relatively straightforward in form an purpose: an RFID object table, a wall of talking heads, furniture with embedded displays, among others. Together they form a coherent and coordinated spatial experience. Graphics on screen spill on to adjacent walls and furniture and monumental graphics are continued across multiple installations.</p>
 				<ul class="actions">
 					<li><a href="http://smalldesignfirm.com/project/our-pipeline/" class="button">Our Pipeline</a></li>
 					<li><a href="http://smalldesignfirm.com/project/smart-energy/" class="button">Smart Energy</a></li>
