@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://www.flickr.com/photos/jftesser/sets/72157634596090003" class="image">
+		<a href="https://www.instructables.com/id/Triangulated-Lamps/" class="image">
 			<img src="assets/images/lamp.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -22,7 +22,7 @@ nav-menu: true
 				</header>
 				<p>Many of my long running design ideas lend themselves well to light fixtures. Using locally availble laser cutters, my trusty craft robo pro and bits of code I've created three light fixture collections.</p>
 				<ul class="actions">
-					<li><a href="https://www.flickr.com/photos/jftesser/sets/72157634596090003" class="button">Triangles</a></li>
+					<li><a href="https://www.instructables.com/id/Triangulated-Lamps/" class="button">Triangles</a></li>
 					<li><a href="https://www.flickr.com/photos/jftesser/sets/72157647070889114" class="button">Zippers</a></li>
 					<li><a href="https://www.flickr.com/photos/jftesser/sets/72157628652038249" class="button">Curve Folds</a></li>
 				</ul>
@@ -56,7 +56,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Haystack Fab Lab</h3>
 				</header>
-				<p>I volunteer at the Haystack Fab Lab most summers. There I help artists and makers explore how digital fabrication tools can be applied to their own work. I've taught people to use a laser cutter for the first time, start 3D modeling, and translate drawings into g-code.</p>
+				<p>I volunteer at the Haystack Fab Lab most summers. There I help artists and makers explore how digital fabrication tools can be applied to their own work. I've taught people to use a laser cutter for the first time, start 3D modeling and translate hand drawings into g-code.</p>
 				<ul class="actions">
 					<li><a href="https://www.haystack-mtn.org/programs/fab-lab/" class="button">Learn more</a></li>
 				</ul>
